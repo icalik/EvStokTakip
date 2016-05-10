@@ -1,0 +1,38 @@
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.exe.config
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.exe
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.pdb
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.csprojResolveAssemblyReference.cache
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev_Stok_Takip.Form1.resources
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev_Stok_Takip.Properties.Resources.resources
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.csproj.GenerateResource.Cache
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.exe
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.pdb
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\bin\Debug\EvStokTakip_DB.mdf
+c:\users\iscalik\documents\visual studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\bin\Debug\EvStokTakip_DB_log.ldf
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.exe.config
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.exe
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.pdb
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.exe
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.pdb
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.csprojResolveAssemblyReference.cache
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev_Stok_Takip.Properties.Resources.resources
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.csproj.GenerateResource.Cache
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Debug\EvStokTakip_DB.accdb
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev_Stok_Takip.EvStokTakip.resources
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev_Stok_Takip.Hakkinda.resources
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.exe.config
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.exe
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.pdb
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Debug\EvStokTakip_DB.accdb
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.exe
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.pdb
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.csprojResolveAssemblyReference.cache
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev_Stok_Takip.EvStokTakip.resources
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev_Stok_Takip.Properties.Resources.resources
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev_Stok_Takip.Hakkinda.resources
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.csproj.GenerateResource.Cache
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.csproj.ResolveComReference.cache
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.exe.manifest
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Debug\Ev Stok Takip.application
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.exe.manifest
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Debug\Ev Stok Takip.application

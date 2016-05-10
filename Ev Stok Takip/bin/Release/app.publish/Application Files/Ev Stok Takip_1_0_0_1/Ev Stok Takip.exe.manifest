@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Ev Stok Takip.exe" version="1.0.0.1" publicKeyToken="ce6f22dbd7ffee5d" language="tr-TR" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Ev Stok Takip" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Ev Stok Takip.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ev Stok Takip.exe" size="463824">
+      <assemblyIdentity name="Ev Stok Takip" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>hdniQJ/ar5xJpp3eHt3omVuDPGEM8jpylVPPSs46nPE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Ev Stok Takip.exe.config" size="762">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ydEX2l3+lVBayGKQb7NfJPbLnqa7MUeF9LugyCCRZEA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="EvStokTakip_DB.accdb" size="1011712">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5avTkgWYJkJB6yU+kjY/LkMgm/+5T0JSrppft2xD5QQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icon.ico" size="175345">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZueIuFMLvBPYEOcd+a953E+4FSnsv6Q2O1Gw9lpXJZk=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=iscalik-PC\iscalik" issuerKeyHash="45b2dab2665aa74511e4938d6bbfd421587596d5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>JNziBjE753jELHqUaljDplB385Qkn9gbQDZxPGbjE7I=</DigestValue></Reference></SignedInfo><SignatureValue>pCenIo5JBE5Xj1Ph36CJRPAF48ukvfRaoI5Hlk8oTQ2bJPkwTiKLtU/RGSVOgBk/lFqP2rzmHgu9ULZ2UOR38GVoYqDXsj7XVJ1cbDEnXikFLVZJK5357cT8PBeUQCRgcnL6FIN4V2mKMycEIGth6QfJPUkuy0srAVFHeMzF4d4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rfze7U9MHeaQaVWSsY89ux8Ou6TQWfHqShaZzmP1v1YvFvgH+PNTpGrwS8az6oZb/6iflzNdB3OuXpQun0lPZcvPpBvY/PR3e5Zvc1swmCbFEpIY6nvdLVbL137d5SpZCpbPmhmO/7JaqqnqSeS7equSdDQm/u88UyHwYumCkIE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b213e3663c7136401bd89f2494f37750a6c3586a947a2cc478e73b3106e2dc24" Description="" Url=""><as:assemblyIdentity name="Ev Stok Takip.exe" version="1.0.0.1" publicKeyToken="ce6f22dbd7ffee5d" language="tr-TR" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=iscalik-PC\iscalik</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>h9zdC74Qhb3TXWquX6gdTiokhHd/3LNjbfdswubkmvA=</DigestValue></Reference></SignedInfo><SignatureValue>fx1BXPhLJ9bUAfcEJMwZ/oleyHEUn921etWUhE6ooxu2EBOgNEP3U94bxVCZzqS8AY1fb/OUqXDpJZH84jVtmIRIjQJFfyEl0cNOjHhgCt8wjO/r/67nH/Fm7vJplD31KHo7NWyLp48qxSLcekigpK2kZNhW0NO60Yj0bAhk0LM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rfze7U9MHeaQaVWSsY89ux8Ou6TQWfHqShaZzmP1v1YvFvgH+PNTpGrwS8az6oZb/6iflzNdB3OuXpQun0lPZcvPpBvY/PR3e5Zvc1swmCbFEpIY6nvdLVbL137d5SpZCpbPmhmO/7JaqqnqSeS7equSdDQm/u88UyHwYumCkIE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQQNSV+wUwd4JCQYOuD/g0zTANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQAaQBzAGMAYQBsAGkAawAtAFAAQwBcAGkAcwBjAGEAbABpAGswHhcNMTYwNTEwMTcyMjIzWhcNMTcwNTEwMjMyMjIzWjAvMS0wKwYDVQQDHiQAaQBzAGMAYQBsAGkAawAtAFAAQwBcAGkAcwBjAGEAbABpAGswgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK383u1PTB3mkGlVkrGPPbsfDruk0Fnx6koWmc5j9b9WLxb4B/jzU6Rq8EvGs+qGW/+on5czXQdzrl6ULp9JT2XLz6Qb2Pz0d3uWb3NbMJgmxRKSGOp73S1Wy9d+3eUqWQqWz5oZjv+yWqqp6knku3qrknQ0Jv7vPFMh8GLpgpCBAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAqrIg3OatZXHyObL4TJqtDsaUGsDHMg3KxJ6/gSChS1L4cWHVIv2g0EDDGTJ3CVFNC282J6lmjbds5rdq9rvCXqp+kOVW1rDJyOpXzKlZDWm7bDYvljNogAi1wZ7OiPvqfc/Xt/hiPN981nQVrOvoBK/7EsQCEjNv7tIerBRMzXQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

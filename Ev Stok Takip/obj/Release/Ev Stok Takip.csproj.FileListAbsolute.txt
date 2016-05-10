@@ -1,0 +1,15 @@
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Release\Ev Stok Takip.exe.config
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Release\Ev Stok Takip.csproj.ResolveComReference.cache
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Release\EvStokTakip_DB.accdb
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Release\Ev Stok Takip.exe.manifest
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Release\Ev Stok Takip.application
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Release\Ev Stok Takip.exe
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\bin\Release\Ev Stok Takip.pdb
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Release\Ev_Stok_Takip.EvStokTakip.resources
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Release\Ev_Stok_Takip.Properties.Resources.resources
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Release\Ev_Stok_Takip.Hakkinda.resources
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Release\Ev Stok Takip.csproj.GenerateResource.Cache
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Release\Ev Stok Takip.exe.manifest
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Release\Ev Stok Takip.application
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Release\Ev Stok Takip.exe
+C:\Users\iscalik\Documents\Visual Studio 2015\Projects\Ev Stok Takip_\Ev Stok Takip\Ev Stok Takip\Ev Stok Takip\obj\Release\Ev Stok Takip.pdb
